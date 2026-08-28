@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeff3joo
-- 👀 I’m interested in Designing/Developing
+- 👀 I’m interested in Developing
 
 <!---
 jeff3joo/jeff3joo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
